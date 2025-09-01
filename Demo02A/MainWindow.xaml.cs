@@ -16,6 +16,8 @@ namespace Demo02A
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        //Primer comentario
         public MainWindow()
         {
             InitializeComponent();
